@@ -1,4 +1,4 @@
-## cedrickm
+## cedrick Moreno-Rodriguez Resume Portal
 ### major projects in support of the bachelors of Business Administration at California State Polytechnic University, Pomona, CA (Cal Poly:))
 1. Business Intelligence for excel
 2. [Advanced analytics , python/pandas](https://github.com/hoboman0493/Cedrickm/blob/main/Project_5_6%2C_warmup_3100_ulta_quartiles.ipynb)
